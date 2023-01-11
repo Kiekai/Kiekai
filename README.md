@@ -39,24 +39,14 @@
 
 -    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 -    ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) 
-## <img src="./assets/Stats.gif" width="60"> **_About Some Stats_**
+## <img src="./asset/Stats.gif" width="60"> **_About Some Stats_**
 
 <div align="center">
-<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=LeHaGiaBao&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
-<img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeHaGiaBao&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
+<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=Kiekai&show_icons=true&theme=algolia" alt="Gia Kiet's github stats" title="My statistics"/>
+<img align="top" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiekai&layout=compact&langs_count=10&theme=algolia" alt="Gia Kiet's github most used languages" title="My most used languages"/>
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LeHaGiaBao&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kiekai&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LeHaGiaBao&theme=react-dark)
-
-## <img src='./assets/Connect.gif' width="80"> **_For More Information, Please Check Out or Connect Me Via_**
-
-<div align="center">
-
-<a href="mailto:lehagiabao0205@gmail.com" >![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)</a>
-<a href="https://github.com/LeHaGiaBao" >![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-
-</div>
-
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kiekai&theme=react-dark)
