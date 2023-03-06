@@ -42,5 +42,5 @@
 ## <img src="./asset/Stats.gif" width="60"> **_About Some Stats_**
 
 <div align="center">
-<img align="top" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KietGia22&show_icons=true&theme=algolia" alt="Le Ha Gia Bao's github stats" title="My statistics"/>
-<img align="top" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KietGia22&layout=compact&langs_count=10&theme=algolia" alt="Le Ha Gia Bao's github most used languages" title="My most used languages"/>
+<img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=KietGia22&show_icons=true&theme=highcontrast" alt="Gia Kiet's github stats" title="My statistics"/>
+<img align="top" width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KietGia22&layout=compact&langs_count=10&theme=algolia" alt="Gia Kiet's github most used languages" title="My most used languages"/>
