@@ -3,8 +3,8 @@
 
 ## <img src="./asset/developers-gif-showcase.gif" width="30"> **_About Me_**
 
--    <img src="./asset/Logo_UIT_updated.jpg" width="20"> I'm currently 2nd year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**   <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" alt="UIT" height="30" width="40" />
--    <img src="./asset/Ekwj.gif" width="25"> My major is **[Embedded System and IOT](https://fce.uit.edu.vn/)**   <a href="https://fce.uit.edu.vn/" target="blank"><img align="center" src="./asset/chỉ%20mục.png" alt="UIT" height="30" width="30" />
+-    <img src="./asset/Logo_UIT_updated.jpg" width="20"> I'm currently 2nd year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**   <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" height="30" width="40" />
+-    <img src="./asset/Ekwj.gif" width="25"> My major is **[Information Systom](https://httt.uit.edu.vn/)**   <a href="https://httt.uit.edu.vn/" target="blank">
 -    <img src="./asset/GrossSphericalFulmar-max-1mb.gif" width="25"> I’m currently learning **Mobile Development (Flutter)** and **Backend of Web Application**
 -    <img src="./asset/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966.gif" width="25"> I have basic knowledge in **`Object Oriented Programming` `Data Structures and Algorithms` `Database` `Operating System`**
 
