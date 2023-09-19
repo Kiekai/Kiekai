@@ -3,42 +3,26 @@
 
 ## <img src="./asset/developers-gif-showcase.gif" width="30"> **_About Me_**
 
--    <img src="./asset/Logo_UIT_updated.jpg" width="20"> I'm currently 2nd year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**   <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" height="30" width="40" />
+-    <img src="./asset/Logo_UIT_updated.jpg" width="20"> I'm currently 3nd year student at **[University of Information Technology - Vietnam National University - Ho Chi Minh City](https://www.uit.edu.vn/)**   <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" height="30" width="40" />
 -    <img src="./asset/Ekwj.gif" width="25"> My major is **[Information Systom](https://httt.uit.edu.vn/)**   <a href="https://httt.uit.edu.vn/" target="blank">
 -    <img src="./asset/GrossSphericalFulmar-max-1mb.gif" width="25"> I’m currently learning **Mobile Development (Flutter)** and **Backend of Web Application**
 -    <img src="./asset/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323830302f312a4255376630324c655165454c7a747178613865436d772e676966.gif" width="25"> I have basic knowledge in **`Object Oriented Programming` `Data Structures and Algorithms` `Database` `Operating System`**
 
 ## <img src="./asset/Tools.gif" width="50"> **_Some Technologies and Tools_**
 
-### 👉 Programming languages
--  ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
--    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-### 👉 Frontend
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
--    ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white) 
-### 👉 Backend
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
--    ![NodeJS](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 👉 Database
-
--    ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white) 
--    ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-
-### 👉 Version Control & Hosting & Package Manager
-
--    ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) 
--    ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-### 👉 IDEs/Editors
-
--    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white)
--    ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-
-### 👉 Tools
-
--    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
--    ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E) 
 ## <img src="./asset/Stats.gif" width="60"> **_About Some Stats_**
 
 <div align="center">
