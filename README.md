@@ -15,4 +15,4 @@
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KietGia22&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KietGia22)](https://github.com/anuraghazra/github-readme-stats)
