@@ -10,7 +10,5 @@
 ## <img src="./asset/Stats.gif" width="60"> **_About Some Stats_**
 ![](https://github-readme-stats.vercel.app/api?username=KietGia22&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KietGia22&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=KietGia22&label=Profile%20Views&color=3&icon=2&pretty=true)](https://visitcount.itsvg.in)
